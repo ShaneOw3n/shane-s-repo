@@ -1,0 +1,11 @@
+Package: com.nyathea.legacybird
+Name: LegacyBird
+Version: 0.1-2+debug
+Architecture: iphoneos-arm
+Description: Fixes Twitter login on older iOS versions.
+Author: NyatheA
+Maintainer: Shane <you@example.com>
+Section: Tweaks
+Priority: optional
+Filename: debs/com.nyathea.legacybird_0.1-2+debug_iphoneos-arm.deb
+Size: 12634
